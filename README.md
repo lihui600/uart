@@ -1,1 +1,1 @@
-# uart
+vivado uartlite+block_ram实现串口向上位机发送数据，并保存在simple dual port block_ram里
